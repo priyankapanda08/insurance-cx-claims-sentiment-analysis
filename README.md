@@ -123,7 +123,9 @@ Customer feedback was transformed into structured insights using the following f
 ## 📸 Dashboard Preview
 
 <img width="1391" height="807" alt="image" src="https://github.com/user-attachments/assets/6bddfdea-296f-42d4-ac9c-a552ab5fb13b" />
+
 <img width="1348" height="787" alt="image" src="https://github.com/user-attachments/assets/9c148770-9d76-4882-9e3f-af039126c898" />
+
 <img width="1381" height="795" alt="image" src="https://github.com/user-attachments/assets/0f14fb9f-5279-40fa-9ca6-83ebfc7a06c6" />
 
 
